@@ -66,6 +66,7 @@ GITHUB-PROFILE_AGENT/
 ├── myenv/               # Python environment configuration files
 ├── .env                 # API Credentials (Protected/Hidden)
 ├── .gitignore           # Stops secrets from leaking into code history
+├── agent.py             # Base General Repository Query Agent
 ├── profile_agent.py     # New Targeted Profile Analyzer Agent 🌟
 └── README.md    # User profiling documentation
 ```
