@@ -1,0 +1,4 @@
+# Core Agent Libraries
+mcp==1.28.0
+mistralai==2.4.12
+python-dotenv==1.2.2

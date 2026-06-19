@@ -1,0 +1,17 @@
+# Environment Secrets (Crucial)
+.env
+
+# Python Virtual Environment
+myenv/
+
+# Python Cache and Compiled Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
